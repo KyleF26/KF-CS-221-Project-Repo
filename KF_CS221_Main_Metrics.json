@@ -1,0 +1,13 @@
+{
+  "states_excluded": [
+    "S\u00e3o Paulo"
+  ],
+  "excluded_count": 1,
+  "n_clusters": 2,
+  "inertia": 172.56176274209017,
+  "silhouette_score": 0.5995043692982337,
+  "cluster_sizes": {
+    "0": 21,
+    "1": 5
+  }
+}
